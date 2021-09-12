@@ -1,7 +1,7 @@
 
-# Frontend Setup
+# Vanilla Z
 
-### A Frontend Boilerplate for Vanilla Javascript
+### A Sleeper Fantasy Footbal App in Vanilla Javascript
 
 This is a frontend boilerplate for javascript based on the tutorials
 by **ROBIN WIERUCH** at his website: [https://www.robinwieruch.de/]{https://www.robinwieruch.de/}.

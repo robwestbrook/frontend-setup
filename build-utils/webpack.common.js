@@ -36,7 +36,7 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: "Hello Frontend Setup",
+      title: "Vanilla Demo",
       template: path.resolve(__dirname, "..", "./src/index.html"),
     }),
   ],
